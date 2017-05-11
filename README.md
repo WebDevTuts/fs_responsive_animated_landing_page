@@ -2,6 +2,6 @@
 
 In this tutorial, we learn how to make full screen responsive animated landing page.
 
-[View demo site here.css/](https://webdevtuts.github.io/fullscreen_responsive_animated_landing_page/)
+[View demo site here.](https://webdevtuts.github.io/fullscreen_responsive_animated_landing_page/)
 
 ![Preview](screenshot.jpg)
