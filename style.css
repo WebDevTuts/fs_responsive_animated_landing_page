@@ -8,6 +8,16 @@ html, body {
   width: 100%;
 }
 
+.intro {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  background: url(https://static.pexels.com/photos/292600/pexels-photo-292600.jpeg);
+  display: table;
+  top: 0;
+  background-size: cover;
+}
+
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
 
