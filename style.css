@@ -58,6 +58,12 @@ html, body {
   border: 2px solid #CBDFD6;
 }
 
+p {
+  font-size: 150%;
+  line-height: 120%;
+  font-family: sans-serif;
+}
+
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
 
