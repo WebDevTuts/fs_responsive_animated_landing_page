@@ -18,6 +18,13 @@ html, body {
   background-size: cover;
 }
 
+.intro .inner {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  max-width: none;
+}
+
 /*--- Media Queries --*/
 @media screen and (max-width: 900px) {
 
